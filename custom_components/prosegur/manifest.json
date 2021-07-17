@@ -3,11 +3,13 @@
   "name": "Prosegur Alarm",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/prosegur",
+  "issue_tracker": "https://github.com/dgomes/ha_prosegur/issues",
   "requirements": [
     "pyprosegur==0.0.4"
   ],
   "codeowners": [
     "@dgomes"
   ],
+  "version": "0.0.5",
   "iot_class": "cloud_polling"
 }
